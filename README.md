@@ -1,0 +1,2 @@
+# Bamadash
+JavaScript Bamadash boilerplate
